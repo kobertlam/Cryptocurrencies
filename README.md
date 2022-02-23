@@ -16,9 +16,9 @@ The [cryto data](./Resources/crypto_data.csv) was retrieved from [CrytoCompare](
 
 [Deliverable 2](./crypto_clustering.ipynb): Reducing Data Dimensions Using PCA
 
-[Deliverable 3](./crypto_clustering.ipynbb): Clustering Cryptocurrencies Using K-means
+[Deliverable 3](./crypto_clustering.ipynb): Clustering Cryptocurrencies Using K-means
 
-[Deliverable 4](./crypto_clustering.ipynbb): Visualizing Cryptocurrencies Results
+[Deliverable 4](./crypto_clustering.ipynb): Visualizing Cryptocurrencies Results
 
 Deliverable 5: A Written Report on the Crytocurrencies Analysis (this file)
 
